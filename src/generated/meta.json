@@ -1,12 +1,13 @@
 {
+  "gzip": true,
+  "generator": "Unity 2022.3.13f1, Needle Engine Integration @3.25.5",
+  "allowHotReload": true,
+  "facebookInstantGames": null,
+  "useRapier": true,
+  "license": null,
   "needleEditor": null,
+  "sceneName": "Cycladic_Refactor",
   "meta": null,
   "absolutePath": "https://localhost:3000",
-  "sceneName": "Next",
-  "deployOnly": false,
-  "generator": "Unity 2021.3.28f1, Needle Engine Integration @3.22.6",
-  "gzip": true,
-  "allowHotReload": false,
-  "license": null,
-  "useRapier": true
+  "deployOnly": false
 }

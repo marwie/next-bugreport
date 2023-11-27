@@ -19,7 +19,7 @@ export type NeedleEngineProps = Omit<NeedleEngineAttributes, 'addEventListener'>
  */
 export default function NeedleEngine({ ...props }): JSX.Element {
 
-  const [src, setSrc] = useState(props?.src)
+  const [src, setSrc] = useState(props?.src ?? null)
 
   useEffect(() => {
     // import the codgegen to register types
